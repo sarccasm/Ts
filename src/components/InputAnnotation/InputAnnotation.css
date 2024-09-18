@@ -1,0 +1,10 @@
+.annotation {
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+  }
+  
+  .annotation.error {
+    color: #ff0000;
+  }
+  
